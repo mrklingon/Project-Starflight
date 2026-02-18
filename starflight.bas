@@ -37,7 +37,7 @@
 781 goto  725
 785 PRINT "Congratulations! You have rescued " + FLEET$ ( ENM ) + "!" 
 800 STOP 
-900 PRINT "Your are commanding a rescue ship that is tasked" 
+900 PRINT "You are commanding a rescue ship that is tasked" 
 920 PRINT "with finding a ship that has crashed in a remote system." 
 940 PRINT "Each star sytem has at least 3 tramlines to other star systems." 
 960 PRINT "Your job is to pilot your ship until you can reach the " 
