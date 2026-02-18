@@ -33,7 +33,7 @@ def initialize_tramlines():
 
 def show_instructions():
     """Display game instructions."""
-    print("Your are commanding a rescue ship that is tasked")
+    print("You are commanding a rescue ship that is tasked")
     print("with finding a ship that has crashed in a remote system.")
     print("Each star sytem has at least 3 tramlines to other star systems.")
     print("Your job is to pilot your ship until you can reach the")
