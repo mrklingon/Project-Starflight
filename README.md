@@ -17,7 +17,7 @@ Just copy it to the FruitJam
 Do you need instructions? (y/n)
 
 y
-Your are commanding a rescue ship that is tasked
+Yourare commanding a rescue ship that is tasked
 with finding a ship that has crashed in a remote system.
 Each star sytem has at least 3 tramlines to other star systems.
 Your job is to pilot your ship until you can reach the
